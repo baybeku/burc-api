@@ -1,0 +1,16 @@
+{
+  "name": "burc-api",
+  "version": "1.0.0",
+  "description": "Günlük burç yorumları için geliştirilmiş bir modül.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:baybeku/burc-api.git"
+  },
+  "author": "BBQ#0001",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5"
+  }
+}
