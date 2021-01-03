@@ -1,6 +1,6 @@
 {
   "name": "burc-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Günlük burç yorumları için geliştirilmiş bir modül.",
   "main": "index.js",
   "repository": {
