@@ -1,5 +1,5 @@
 # burc-api
-- Günlük burç yorumları için geliştirilmiş bir modül.
+- Günlük burç yorumları için geliştirilmiş basit bir modül.
 
 <pre lang="js">
   const burc = require('burc-api');
