@@ -1,5 +1,10 @@
 # 📡 Günlük burç yorumları için geliştirilmiş basit bir modül (burc-api).
 
+Basit ama kullanışlı bir modül size kolaylık sağlayabilir.<br>
+Sorunuz/Sıkıntınız olursa GitHub profilimdeki bağlantılardan bana ulaşabilirsiniz.
+
+# Kullanım
+
 <pre lang="js">
   const burc = require('burc-api');
   /*
