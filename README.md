@@ -1,4 +1,4 @@
-# 📡 Günlük burç yorumları için geliştirilmiş basit bir modül (burc-api).
+# 📡 Günlük burç yorumları için geliştirilmiş basit bir modül.
 
 Basit ama kullanışlı bir modül size kolaylık sağlayabilir.<br>
 Sorunuz/Sıkıntınız olursa GitHub profilimdeki bağlantılardan bana ulaşabilirsiniz.
